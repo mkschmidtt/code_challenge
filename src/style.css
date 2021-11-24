@@ -1,0 +1,18 @@
+.searchbar {
+  padding: 10px;
+  background: #41779b;
+  text-align: center;
+}
+.searchbar input {
+  width: 280px;
+  padding: 7px;
+}
+.usercard {
+  width: 500px;
+  margin: 20px auto;
+  border: 1px solid #666;
+}
+.usercard .userimage img {
+  width: 100%;
+  max-width: 100px;
+}
